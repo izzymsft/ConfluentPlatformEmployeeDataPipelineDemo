@@ -1,0 +1,112 @@
+[
+  {
+    "employee_id": 1,
+    "first_name": "Ava",
+    "last_name": "Henderson",
+    "job_title": "Software Engineer",
+    "department": "Engineering",
+    "hire_date": "2019-04-15",
+    "rank": "Mid-Level",
+    "salary": 95000,
+    "bio": "Ava specializes in backend development and has a strong background in microservices architecture."
+  },
+  {
+    "employee_id": 2,
+    "first_name": "Liam",
+    "last_name": "Patel",
+    "job_title": "UX Designer",
+    "department": "Product Design",
+    "hire_date": "2021-01-11",
+    "rank": "Junior",
+    "salary": 70000,
+    "bio": "Liam is passionate about creating intuitive user experiences and works closely with frontend engineers."
+  },
+  {
+    "employee_id": 3,
+    "first_name": "Sophia",
+    "last_name": "Nguyen",
+    "job_title": "Data Scientist",
+    "department": "Data Analytics",
+    "hire_date": "2020-06-30",
+    "rank": "Senior",
+    "salary": 120000,
+    "bio": "Sophia leads projects in predictive modeling and customer behavior analysis."
+  },
+  {
+    "employee_id": 4,
+    "first_name": "Noah",
+    "last_name": "Thompson",
+    "job_title": "Project Manager",
+    "department": "Operations",
+    "hire_date": "2018-09-03",
+    "rank": "Mid-Level",
+    "salary": 88000,
+    "bio": "Noah ensures timely delivery of cross-functional projects with a focus on agile practices."
+  },
+  {
+    "employee_id": 5,
+    "first_name": "Isabella",
+    "last_name": "Lopez",
+    "job_title": "HR Specialist",
+    "department": "Human Resources",
+    "hire_date": "2022-03-21",
+    "rank": "Junior",
+    "salary": 65000,
+    "bio": "Isabella manages employee onboarding and benefits administration."
+  },
+  {
+    "employee_id": 6,
+    "first_name": "Ethan",
+    "last_name": "Garcia",
+    "job_title": "DevOps Engineer",
+    "department": "Infrastructure",
+    "hire_date": "2017-11-14",
+    "rank": "Senior",
+    "salary": 115000,
+    "bio": "Ethan is responsible for CI/CD pipelines and cloud infrastructure automation."
+  },
+  {
+    "employee_id": 7,
+    "first_name": "Mia",
+    "last_name": "Anderson",
+    "job_title": "Marketing Analyst",
+    "department": "Marketing",
+    "hire_date": "2021-08-09",
+    "rank": "Mid-Level",
+    "salary": 78000,
+    "bio": "Mia tracks campaign performance metrics and provides actionable insights."
+  },
+  {
+    "employee_id": 8,
+    "first_name": "James",
+    "last_name": "Kim",
+    "job_title": "Security Analyst",
+    "department": "IT Security",
+    "hire_date": "2019-12-02",
+    "rank": "Mid-Level",
+    "salary": 94000,
+    "bio": "James monitors systems for vulnerabilities and implements security best practices."
+  },
+  {
+    "employee_id": 9,
+    "first_name": "Amelia",
+    "last_name": "White",
+    "job_title": "Financial Analyst",
+    "department": "Finance",
+    "hire_date": "2020-02-24",
+    "rank": "Junior",
+    "salary": 72000,
+    "bio": "Amelia supports budgeting, forecasting, and financial reporting processes."
+  },
+  {
+    "employee_id": 10,
+    "first_name": "Benjamin",
+    "last_name": "Robinson",
+    "job_title": "Chief Technology Officer",
+    "department": "Executive",
+    "hire_date": "2015-05-18",
+    "rank": "Executive",
+    "salary": 185000,
+    "bio": "Benjamin drives the company’s technology vision and leads all engineering teams."
+  }
+]
