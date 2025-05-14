@@ -1,8 +1,6 @@
 ### Confluent Platform Employee Data Pipeline Demo
 
-Here's a clean and structured summary of your data pipeline:
-
----
+Quickstart demo of Confluent Platform using hypothetical employee metadata. 
 
 ### 🔄 Data Pipeline Overview
 
